@@ -43,6 +43,7 @@ pip install psutil tkinterdnd2
 
 3. **执行替换**
    - 点击"开始智能替换"按钮
+   - 启动游戏
    - 程序将自动检测游戏启动并执行替换
    - 原始文件会自动备份到mods_backup文件夹
 
